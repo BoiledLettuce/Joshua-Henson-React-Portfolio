@@ -17,29 +17,39 @@ const Experience = () => {
           <h3>Frontend Developement</h3>
           <div className="experience__content">
             <article className='experience__details'>
-              <SiCheckio/>
+              <SiCheckio className='experience__details-icons'/>
+              <div>
               <h4>HTML</h4>
               <small className='text-light'>Experienced</small>
+              </div>
             </article>
             <article className='experience__details'>
-              <SiCheckio/>
-              <h4>CSS</h4>
+              <SiCheckio className='experience__details-icons'/>
+              <div>
+                <h4>CSS</h4>
               <small className='text-light'>Intermediate</small>
+              </div>
             </article>
             <article className='experience__details'>
-              <SiCheckio/>
-              <h4>JavaScript</h4>
+              <SiCheckio className='experience__details-icons'/>
+              <div>
+                <h4>JavaScript</h4>
               <small className='text-light'>Experienced</small>
+              </div>
             </article>
             <article className='experience__details'>
-              <SiCheckio/>
-              <h4>Tailwind</h4>
+              <SiCheckio className='experience__details-icons'/>
+             <div>
+               <h4>Tailwind</h4>
               <small className='text-light'>Experienced</small>
+             </div>
             </article>
             <article className='experience__details'>
-              <SiCheckio/>
-              <h4>React</h4>
+              <SiCheckio className='experience__details-icons'/>
+              <div>
+                <h4>React</h4>
               <small className='text-light'>Noob</small>
+              </div>
             </article>
           </div>
         </div>
@@ -49,29 +59,39 @@ const Experience = () => {
         <h3>Backend Developement</h3>
           <div className="experience__content">
             <article className='experience__details'>
-              <SiCheckio/>
-              <h4>NodeJS</h4>
+              <SiCheckio className='experience__details-icons'/>
+              <div>
+                <h4>NodeJS</h4>
               <small className='text-light'>Experienced</small>
+              </div>
             </article>
             <article className='experience__details'>
-              <SiCheckio/>
-              <h4>MongoDB</h4>
+              <SiCheckio className='experience__details-icons'/>
+              <div>
+                <h4>MongoDB</h4>
               <small className='text-light'>Intermediate</small>
+              </div>
             </article>
             <article className='experience__details'>
-              <SiCheckio/>
-              <h4>PHP</h4>
+              <SiCheckio className='experience__details-icons'/>
+              <div>
+                <h4>PHP</h4>
               <small className='text-light'>Noob</small>
+              </div>
             </article>
             <article className='experience__details'>
-              <SiCheckio/>
-              <h4>MySQL</h4>
+              <SiCheckio className='experience__details-icons'/>
+              <div>
+                <h4>MySQL</h4>
               <small className='text-light'>Scrub</small>
+              </div>
             </article>
             <article className='experience__details'>
-              <SiCheckio/>
-              <h4>Python</h4>
+              <SiCheckio className='experience__details-icons'/>
+              <div>
+                <h4>Python</h4>
               <small className='text-light'>Noob</small>
+              </div>
             </article>
           </div>
         </div>

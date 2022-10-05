@@ -83,8 +83,8 @@
         margin: 1rem 0 1.5rem;
     }
 }
-/* ==================== MEDIA STUFF MEDIUM DEVICE ======================= */
-@media screen and (max-width: 1024px) {
+/* ==================== MEDIA STUFF SMALL DEVICE ======================= */
+@media screen and (max-width: 600px) {
 
     .about__me {
         width: 65%;
