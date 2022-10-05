@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Joshua-Henson-React-Portfolio/static/css/main.70831688.css",
+    "main.js": "/Joshua-Henson-React-Portfolio/static/js/main.8c8488f4.js",
+    "static/media/avatar2.jpg": "/Joshua-Henson-React-Portfolio/static/media/avatar2.396989a67348c7bb1176.jpg",
+    "static/media/me-about.png": "/Joshua-Henson-React-Portfolio/static/media/me-about.71c425f12138d128a668.png",
+    "static/media/me.png": "/Joshua-Henson-React-Portfolio/static/media/me.2a3360e91114ddba6e50.png",
+    "static/media/portfolio1.jpg": "/Joshua-Henson-React-Portfolio/static/media/portfolio1.e9d07e3b499985d020f7.jpg",
+    "static/media/avatar1.jpg": "/Joshua-Henson-React-Portfolio/static/media/avatar1.899bf9b943ad12ea47e1.jpg",
+    "static/media/cv.pdf": "/Joshua-Henson-React-Portfolio/static/media/cv.66849a2f732f1e75e654.pdf",
+    "static/media/avatar3.jpg": "/Joshua-Henson-React-Portfolio/static/media/avatar3.59c14e4ae46b5533498f.jpg",
+    "static/media/avatar4.jpg": "/Joshua-Henson-React-Portfolio/static/media/avatar4.c5fbe2f7ccb24709ae49.jpg",
+    "index.html": "/Joshua-Henson-React-Portfolio/index.html",
+    "main.70831688.css.map": "/Joshua-Henson-React-Portfolio/static/css/main.70831688.css.map",
+    "main.8c8488f4.js.map": "/Joshua-Henson-React-Portfolio/static/js/main.8c8488f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70831688.css",
+    "static/js/main.8c8488f4.js"
+  ]
+}
